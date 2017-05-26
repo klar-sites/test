@@ -1,1 +1,1 @@
-
+{"theme":{},"blocks":{"slider-1495808935146":{"template_id":"slider"}},"page":{},"config":{"block_templates":[{"icon":"image","id":"slider","title":"Slider"}],"settings":{"blocks":{"slider":{"title":"Title"}}},"settings_schema":{"blocks":{"slider":{"title":"Slider","properties":{"title":{"type":"string","title":"Title"}}}}}},"templates":{"blocks":{"slider":{"content":"<section id=\"{{block_id}}\" class=\"{{template_id}}\">\n  <div class=\"container\">\n    <h1>My custom block : )</h1>\n  </div>\n</section>"}}}}
