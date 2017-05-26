@@ -35,4 +35,7 @@
     });
   })(jQuery);
 
-
+window.addEventListener('load', function() { 
+  alert('hehehehehehe')
+  $('.slider').carousel();
+}, false);
