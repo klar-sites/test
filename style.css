@@ -155,11 +155,9 @@
       color: #fed136;
       background-color: white;
     }
-    /*
-    section {
+    .block {
       padding: 100px 0;
     }
-    */
     section .section-heading {
       font-size: 40px;
       margin-top: 0;
@@ -173,13 +171,11 @@
       font-weight: 400;
       margin-bottom: 75px;
     }
-    /*
     @media (min-width: 768px) {
-      section {
+      .block {
         padding: 150px 0;
       }
     }
-    */
   
     /* Base */
     body {
@@ -210,9 +206,9 @@
     }
     /* Global */
     @media (min-width: 768px) {
-      section {
-        padding-top: 150px;
-        padding-bottom: 150px;
+      .block {
+        padding-top: 150;px;
+        padding-bottom: 150;px;
       }
     }
     /* Buttons */
@@ -230,23 +226,7 @@
       color: #ffffff;
       background: #fed136;
     }
-    /*
-    @media (min-width: 768px) {
-      section {
-        padding-top: 150;px;
-        padding-bottom: 150;px;
-      }
-    }
-    */
   
-.carousel-wrapper {
-  adding: 0;
-}
-
-.carousel-wrapper {
-  adding: 0;
-}
-
 .carousel-wrapper {
   adding: 0;
 }
