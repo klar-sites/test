@@ -36,6 +36,8 @@
   })(jQuery);
 
 window.addEventListener('load', function() { 
-  alert('hehehehehehe')
-  $('.slider').carousel();
+  // alert('hehehehehehe');
+  $('#slider-slider-1495808935146').carousel({
+    interval: 10000
+  });
 }, false);
