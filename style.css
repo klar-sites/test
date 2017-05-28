@@ -229,13 +229,7 @@
   
 #slider-1495988903795 {}
 #slider-1495988903795 .carousel-caption {
-  left: 30%;
-  height: 100%;
-  top: 0;
-  bottom: auto;
-  right: 30%;
   text-shadow: none;
-  text-align: center;
 }
 #slider-1495988903795 .carousel-caption-inner {
   display: table;
@@ -259,6 +253,22 @@
   font-size: 16px;
 }
 @media (min-width: 768px) {
+  #slider-1495988903795 .carousel-caption {
+    eft: 30%;
+    height: 100%;
+    top: 0;
+    bottom: auto;
+    ight: 30%;
+    text-align: center;
+  }
+  #slider-1495988903795 .carousel-caption-inner {
+    display: table;
+    height: 100%;
+  }
+  #slider-1495988903795 .carousel-caption-inner-2 {
+    display: table-cell;
+    vertical-align: middle;
+  }
   #slider-1495988903795 .carousel-caption .block-title {
     color: #fff;
     font-size: 70px;
@@ -530,4 +540,60 @@
 #portfolio-1495991389888 ::selection {
   color: ;
   background: ;
+}
+
+#slider-1495994863089 {}
+#slider-1495994863089 .carousel-caption {
+  text-shadow: none;
+}
+#slider-1495994863089 .carousel-caption-inner {
+  display: table;
+  height: 100%;
+}
+#slider-1495994863089 .carousel-caption-inner-2 {
+  display: table-cell;
+  vertical-align: middle;
+}
+#slider-1495994863089 .carousel-caption .block-title {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 0;
+}
+#slider-1495994863089 .carousel-caption .block-subtitle {
+  color: #fff;
+  font-size: 18px;
+}
+#slider-1495994863089 .carousel-caption p {
+  color: #fff;
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  #slider-1495994863089 .carousel-caption {
+    eft: 30%;
+    height: 100%;
+    top: 0;
+    bottom: auto;
+    ight: 30%;
+    text-align: center;
+  }
+  #slider-1495994863089 .carousel-caption-inner {
+    display: table;
+    height: 100%;
+  }
+  #slider-1495994863089 .carousel-caption-inner-2 {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  #slider-1495994863089 .carousel-caption .block-title {
+    color: #fff;
+    font-size: 70px;
+  }
+  #slider-1495994863089 .carousel-caption .block-subtitle {
+    color: #fff;
+    font-size: 24px;
+  }
+  #slider-1495994863089 .carousel-caption p {
+    color: #fff;
+    font-size: 16px;
+  }
 }
