@@ -254,11 +254,11 @@
 }
 @media (min-width: 768px) {
   #slider-1495988903795 .carousel-caption {
-    eft: 30%;
+    left: 30%;
     height: 100%;
     top: 0;
     bottom: auto;
-    ight: 30%;
+    right: 30%;
     text-align: center;
   }
   #slider-1495988903795 .carousel-caption-inner {
@@ -569,11 +569,11 @@
 }
 @media (min-width: 768px) {
   #slider-1495994863089 .carousel-caption {
-    eft: 30%;
+    left: 30%;
     height: 100%;
     top: 0;
     bottom: auto;
-    ight: 30%;
+    right: 30%;
     text-align: center;
   }
   #slider-1495994863089 .carousel-caption-inner {
