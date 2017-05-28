@@ -229,11 +229,13 @@
   
 #slider-1495988903795 {}
 #slider-1495988903795 .carousel-caption {
+  left: 25%;
   height: 100%;
   top: 0;
   bottom: auto;
+  right: 25%;
   text-shadow: none;
-  text-align: center;
+  text-align: left;
 }
 #slider-1495988903795 .carousel-caption-inner {
   display: table;
@@ -245,15 +247,30 @@
 }
 #slider-1495988903795 .carousel-caption .block-title {
   color: #fff;
-  font-size: 50px;
+  font-size: 30px;
   margin-top: 0;
 }
 #slider-1495988903795 .carousel-caption .block-subtitle {
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
 }
 #slider-1495988903795 .carousel-caption p {
   color: #fff;
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  #slider-1495988903795 .carousel-caption .block-title {
+    color: #fff;
+    font-size: 70px;
+  }
+  #slider-1495988903795 .carousel-caption .block-subtitle {
+    color: #fff;
+    font-size: 24px;
+  }
+  #slider-1495988903795 .carousel-caption p {
+    color: #fff;
+    font-size: 16px;
+  }
 }
 
 .team-member {
