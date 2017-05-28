@@ -229,14 +229,27 @@
   
 #slider-1495988903795 {}
 #slider-1495988903795 .carousel-caption {
+  height: 100%;
+  top: 0;
+  bottom: auto;
   text-shadow: none;
   text-align: center;
 }
-#slider-1495988903795 .carousel-caption .title {
-  color: #fff;
+#slider-1495988903795 .carousel-caption-inner {
+  display: table;
+  height: 100%;
 }
-#slider-1495988903795 .carousel-caption .subtitle {
+#slider-1495988903795 .carousel-caption-inner-2 {
+  display: table-cell;
+  vertical-align: middle;
+}
+#slider-1495988903795 .carousel-caption .block-title {
   color: #fff;
+  font-size: 50px;
+}
+#slider-1495988903795 .carousel-caption .block-subtitle {
+  color: #fff;
+  font-size: 20px;
 }
 #slider-1495988903795 .carousel-caption p {
   color: #fff;
