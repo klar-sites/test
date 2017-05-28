@@ -34,11 +34,3 @@
       }
     });
   })(jQuery);
-
-window.addEventListener('load', function() { 
-  // console.log('hehehehehehe');
-  // console.log(window.top.document.cookie);
-  $('#carousel-slider').carousel({
-    interval: 30000
-  });
-}, false);
