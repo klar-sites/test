@@ -336,11 +336,8 @@
       padding-bottom: 25px;
     }
     /* Margin top next block */
-    .navbar-custom + .block {
-      margin-top: 100px;
-    }
-    /* For editor */
-    [data-template-id="navigation"] + .klar-block {
+    .navbar-custom + *,
+    [data-id="navigation-1495966065364"] + * {
       margin-top: 100px;
     }
   } 
