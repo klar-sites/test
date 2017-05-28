@@ -227,4 +227,17 @@
       background: #fed136;
     }
   
-.carousel {}
+#slider-1495988903795 {}
+#slider-1495988903795 .carousel-caption {
+  text-shadow: none;
+  text-align: center;
+}
+#slider-1495988903795 .carousel-caption .title {
+  color: #fff;
+}
+#slider-1495988903795 .carousel-caption .subtitle {
+  color: #fff;
+}
+#slider-1495988903795 .carousel-caption p {
+  color: #fff;
+}
