@@ -262,11 +262,14 @@
   position: relative;
   z-index: 10;
 }
+#slider-1495988903795 .item .carousel-caption--custom .row,
+#slider-1495988903795 .item .carousel-caption--custom .col-md-8{
+  height: 100%;
+}
 #slider-1495988903795 .item .carousel-caption-inner {
   display: table;
   height: 100%;
-  padding: 0px 20%;
-
+  adding: 0px 20% 0 20%;
 }
 #slider-1495988903795 .item .carousel-caption-inner-2 {
   
@@ -632,11 +635,14 @@
   position: relative;
   z-index: 10;
 }
+#slider-1495994863089 .item .carousel-caption--custom .row,
+#slider-1495994863089 .item .carousel-caption--custom .col-md-8{
+  height: 100%;
+}
 #slider-1495994863089 .item .carousel-caption-inner {
   display: table;
   height: 100%;
-  padding: 0px 20%;
-
+  adding: 0px 20% 0 20%;
 }
 #slider-1495994863089 .item .carousel-caption-inner-2 {
   
