@@ -227,23 +227,13 @@
       background: #fed136;
     }
   
-        #slider-1496033259791 .item {
-          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/42a407a0-3e63-11e7-bb1e-3b750a126d94-kW0g1p0yRuCZ1eYgJz9J);
-          ackground-position: 0 0px;
-        }
-      
-        #slider-1496033259791 .item {
-          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/1b439db0-3e63-11e7-a758-8bce55ad96cc-gMKMVaTsT1aak77pAfix);
-          ackground-position: 0 0px;
-        }
-      
-#slider-1496033259791 {
+#slider-1496036290441 {
   
 }
-#slider-1496033259791 .carousel {
+#slider-1496036290441 .carousel {
   
 }
-#slider-1496033259791 .item {
+#slider-1496036290441 .item {
   /* background-image: url('../img/header-bg.jpg'); */
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -254,76 +244,76 @@
   background-size: cover;
   -o-background-size: cover;
 }
-#slider-1496033259791 .item-inner {
+#slider-1496036290441 .item-inner {
   height: 100%;
 }
-#slider-1496033259791 .item .carousel-caption--custom {
+#slider-1496036290441 .item .carousel-caption--custom {
   ackground: red;
   height: 100%;
   position: relative;
   z-index: 10;
 }
-#slider-1496033259791 .item .carousel-caption--custom .row,
-#slider-1496033259791 .item .carousel-caption--custom .col-md-8,
-#slider-1496033259791 .item .carousel-caption--custom .col-sm-8 {
+#slider-1496036290441 .item .carousel-caption--custom .row,
+#slider-1496036290441 .item .carousel-caption--custom .col-md-8,
+#slider-1496036290441 .item .carousel-caption--custom .col-sm-8 {
   height: 100%;
 }
-#slider-1496033259791 .item .carousel-caption-inner {
+#slider-1496036290441 .item .carousel-caption-inner {
   display: table;
   height: 100%;
   padding: 30px 20% 30px 20%;
 }
-#slider-1496033259791 .item .carousel-caption-inner-2 {
+#slider-1496036290441 .item .carousel-caption-inner-2 {
   
   display: table-cell;
   vertical-align: middle;
 }
-#slider-1496033259791 .item .carousel-caption--custom .block-title {
+#slider-1496036290441 .item .carousel-caption--custom .block-title {
   color: #fff;
   font-size: 30px;
   margin-top: 0;
 }
-#slider-1496033259791 .item .carousel-caption--custom .block-subtitle {
+#slider-1496036290441 .item .carousel-caption--custom .block-subtitle {
   color: #fff;
   font-size: 18px;
 }
-#slider-1496033259791 .item .carousel-caption--custom p {
+#slider-1496036290441 .item .carousel-caption--custom p {
   color: #fff;
   font-size: 16px;
 }
 @media (min-width: 768px) {
-  #slider-1496033259791 .item .carousel-caption--custom {
+  #slider-1496036290441 .item .carousel-caption--custom {
     text-align: center;
     
   }
-  #slider-1496033259791 .item .carousel-caption-inner {
+  #slider-1496036290441 .item .carousel-caption-inner {
     display: table;
     padding: 0;
   }
-  #slider-1496033259791 .item .carousel-caption-inner-2 {
+  #slider-1496036290441 .item .carousel-caption-inner-2 {
     display: table-cell;
     vertical-align: middle;
   }
-  #slider-1496033259791 .item .carousel-caption--custom .block-title {
+  #slider-1496036290441 .item .carousel-caption--custom .block-title {
     color: #fff;
     font-size: 70px;
     line-height: 70px;
     margin: 0 0 20px;
   }
-  #slider-1496033259791 .item .carousel-caption--custom .block-subtitle {
+  #slider-1496036290441 .item .carousel-caption--custom .block-subtitle {
     color: #fff;
     font-size: 24px;
-    font-weight: normal;
+    ont-weight: normal;
     line-height: 30px;
     margin: 0 0 10px;
   }
-  #slider-1496033259791 .item .carousel-caption--custom p {
+  #slider-1496036290441 .item .carousel-caption--custom p {
     color: #fff;
     font-size: 16px;
     line-height: 20px;
   }
 }
-#slider-1496033259791 .item .overlay {
+#slider-1496036290441 .item .overlay {
   background-color: #000000;
   height: 100%;
   left: 0;
@@ -333,21 +323,22 @@
   width: 100%;
 }
 
-#slider-1496033259791 .item {
+#slider-1496036290441 .item {
   text-align: center;
   
-    height: 100vh;
-  
 }
-#slider-1496033259791 .item .overlay {
+#slider-1496036290441 .item .overlay {
   background-color: #000000;
   opacity: 0.2;
 }
 @media (min-width: 768px) {
-  #slider-1496033259791 .item {
+  #slider-1496036290441 .item {
     
   }
-  #slider-1496033259791 .item .carousel-caption--custom {
+  #slider-1496036290441 .item .carousel-caption--custom {
+    
+      padding-top: 200px;
+      padding-bottom: 200px;
     
   }
 }
@@ -611,16 +602,6 @@
   background: ;
 }
 
-        #slider-1495994863089 .item {
-          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/42a407a0-3e63-11e7-bb1e-3b750a126d94-kW0g1p0yRuCZ1eYgJz9J);
-          ackground-position: 0 0px;
-        }
-      
-        #slider-1495994863089 .item {
-          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/1b439db0-3e63-11e7-a758-8bce55ad96cc-gMKMVaTsT1aak77pAfix);
-          ackground-position: 0 0px;
-        }
-      
 #slider-1495994863089 {
   
 }
@@ -697,7 +678,7 @@
   #slider-1495994863089 .item .carousel-caption--custom .block-subtitle {
     color: #fff;
     font-size: 24px;
-    font-weight: normal;
+    ont-weight: normal;
     line-height: 30px;
     margin: 0 0 10px;
   }
@@ -730,6 +711,122 @@
     
   }
   #slider-1495994863089 .item .carousel-caption--custom {
+    
+      padding-top: 200px;
+      padding-bottom: 200px;
+    
+  }
+}
+
+#slider-1496036281989 {
+  
+}
+#slider-1496036281989 .carousel {
+  
+}
+#slider-1496036281989 .item {
+  /* background-image: url('../img/header-bg.jpg'); */
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-position: 0 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+#slider-1496036281989 .item-inner {
+  height: 100%;
+}
+#slider-1496036281989 .item .carousel-caption--custom {
+  ackground: red;
+  height: 100%;
+  position: relative;
+  z-index: 10;
+}
+#slider-1496036281989 .item .carousel-caption--custom .row,
+#slider-1496036281989 .item .carousel-caption--custom .col-md-8,
+#slider-1496036281989 .item .carousel-caption--custom .col-sm-8 {
+  height: 100%;
+}
+#slider-1496036281989 .item .carousel-caption-inner {
+  display: table;
+  height: 100%;
+  padding: 30px 20% 30px 20%;
+}
+#slider-1496036281989 .item .carousel-caption-inner-2 {
+  
+  display: table-cell;
+  vertical-align: middle;
+}
+#slider-1496036281989 .item .carousel-caption--custom .block-title {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 0;
+}
+#slider-1496036281989 .item .carousel-caption--custom .block-subtitle {
+  color: #fff;
+  font-size: 18px;
+}
+#slider-1496036281989 .item .carousel-caption--custom p {
+  color: #fff;
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  #slider-1496036281989 .item .carousel-caption--custom {
+    text-align: center;
+    
+  }
+  #slider-1496036281989 .item .carousel-caption-inner {
+    display: table;
+    padding: 0;
+  }
+  #slider-1496036281989 .item .carousel-caption-inner-2 {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  #slider-1496036281989 .item .carousel-caption--custom .block-title {
+    color: #fff;
+    font-size: 70px;
+    line-height: 70px;
+    margin: 0 0 20px;
+  }
+  #slider-1496036281989 .item .carousel-caption--custom .block-subtitle {
+    color: #fff;
+    font-size: 24px;
+    ont-weight: normal;
+    line-height: 30px;
+    margin: 0 0 10px;
+  }
+  #slider-1496036281989 .item .carousel-caption--custom p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+#slider-1496036281989 .item .overlay {
+  background-color: #000000;
+  height: 100%;
+  left: 0;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+#slider-1496036281989 .item {
+  text-align: center;
+  
+}
+#slider-1496036281989 .item .overlay {
+  background-color: #000000;
+  opacity: 0.2;
+}
+@media (min-width: 768px) {
+  #slider-1496036281989 .item {
+    
+  }
+  #slider-1496036281989 .item .carousel-caption--custom {
     
       padding-top: 200px;
       padding-bottom: 200px;

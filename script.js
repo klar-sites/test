@@ -38,6 +38,15 @@
 window.addEventListener('load', function() { 
   // console.log('hehehehehehe');
   // console.log(window.top.document.cookie);
+  $('#carousel-slider-1496036281989').carousel({
+    interval: false,
+    keyboard: false
+  });
+}, false);
+
+window.addEventListener('load', function() { 
+  // console.log('hehehehehehe');
+  // console.log(window.top.document.cookie);
   $('#carousel-slider-1495994863089').carousel({
     interval: false,
     keyboard: false
@@ -47,7 +56,7 @@ window.addEventListener('load', function() {
 window.addEventListener('load', function() { 
   // console.log('hehehehehehe');
   // console.log(window.top.document.cookie);
-  $('#carousel-slider-1496033259791').carousel({
+  $('#carousel-slider-1496036290441').carousel({
     interval: false,
     keyboard: false
   });
