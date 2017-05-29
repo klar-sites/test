@@ -227,9 +227,21 @@
       background: #fed136;
     }
   
-#header-1496028817585 {
-  color: white;
-  background-image: url('../img/header-bg.jpg');
+        #slider-1495988903795 .item {
+          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/42a407a0-3e63-11e7-bb1e-3b750a126d94-kW0g1p0yRuCZ1eYgJz9J);
+          ackground-position: 0 0px;
+        }
+      
+        #slider-1495988903795 .item {
+          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/1b439db0-3e63-11e7-a758-8bce55ad96cc-gMKMVaTsT1aak77pAfix);
+          ackground-position: 0 0px;
+        }
+      
+#slider-1495988903795 {
+  
+}
+#slider-1495988903795 .item {
+  /* background-image: url('../img/header-bg.jpg'); */
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -238,101 +250,59 @@
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  text-align: center;
-  position: relative;
 }
-#header-1496028817585 .intro-text {
-  padding-top: 100px;
-  padding-bottom: 50px;
-  position: relative;
-  z-index: 1;
-}
-#header-1496028817585 .intro-text .intro-lead-in {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: italic;
-  font-size: 22px;
-  line-height: 22px;
-  margin-bottom: 25px;
-}
-#header-1496028817585 .intro-text .intro-heading {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 50px;
-  line-height: 50px;
-  margin-bottom: 25px;
-}
-#header-1496028817585 .overlay {
-  background-color: #000000;
-  height: 100%;
-  left: 0;
-  opacity: 1;
+#slider-1495988903795 .item .carousel-caption--custom {
   position: absolute;
-  top: 0;
-  width: 100%;
+  z-index: 10;
+}
+#slider-1495988903795 .item .carousel-caption-inner {
+  display: table;
+  height: 100%;
+  padding: 20px 60px;
+}
+#slider-1495988903795 .item .carousel-caption-inner-2 {
+  display: table-cell;
+  vertical-align: middle;
+}
+#slider-1495988903795 .item .carousel-caption--custom .block-title {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 0;
+}
+#slider-1495988903795 .item .carousel-caption--custom .block-subtitle {
+  color: #fff;
+  font-size: 18px;
+}
+#slider-1495988903795 .item .carousel-caption--custom p {
+  color: #fff;
+  font-size: 16px;
 }
 @media (min-width: 768px) {
-  #header-1496028817585 {
-    
+  #slider-1495988903795 .item .carousel-caption--custom {
+    height: 100%;
+    text-align: center;
   }
-  #header-1496028817585 .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+  #slider-1495988903795 .item .carousel-caption-inner {
+    display: table;
+    height: 100%;
   }
-  #header-1496028817585 .intro-text .intro-lead-in {
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
-    font-size: 40px;
-    line-height: 40px;
-    margin-bottom: 25px;
+  #slider-1495988903795 .item .carousel-caption-inner-2 {
+    display: table-cell;
+    vertical-align: middle;
   }
-  #header-1496028817585 .intro-text .intro-heading {
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 75px;
-    line-height: 75px;
-    margin-bottom: 50px;
+  #slider-1495988903795 .item .carousel-caption--custom .block-title {
+    color: #fff;
+    font-size: 70px;
   }
-}
-
-#header-1496028817585 {
-  background-image: url(https://blackrockdigital.github.io/startbootstrap-agency/img/header-bg.jpg);
-  background-position: 0 0px;
-  text-align:center;
-}
-#header-1496028817585 .intro-text .intro-lead-in {
-  color: #ffffff;
-}
-#header-1496028817585 .intro-text .intro-heading {
-  color: #ffffff;
-}
-#header-1496028817585 .btn-xl,
-#header-1496028817585 .btn-xl:hover,
-#header-1496028817585 .btn-xl:focus,
-#header-1496028817585 .btn-xl:active {
-  background-color: #fed136;
-  border-color: #fed136;
-  color: #ffffff;
-}
-#header-1496028817585 .overlay {
-  background-color: #000000;
-  opacity: 0.2;
-}
-@media (min-width: 768px) {
-  #header-1496028817585 {
-    margin-top: 0px;
-    
-    height: 100vh;
-    
+  #slider-1495988903795 .item .carousel-caption--custom .block-subtitle {
+    color: #fff;
+    font-size: 24px;
   }
-  #header-1496028817585 .intro-text {
-    margin-top: 0px;
-    padding-top: 300px;
-    padding-bottom: 200px;
+  #slider-1495988903795 .item .carousel-caption--custom p {
+    color: #fff;
+    font-size: 16px;
   }
 }
-
 #slider-1495988903795 .item .overlay {
   background-color: #000000;
   height: 100%;
@@ -342,77 +312,16 @@
   top: 0;
   width: 100%;
 }
-#slider-1495988903795 .item-inner img {
-  line-height: 1;
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-#slider-1495988903795 .carousel-caption {
-  padding: 0;
-  text-shadow: none;
-}
-#slider-1495988903795 .carousel-caption-inner {
-  display: table;
-  height: 100%;
-}
-#slider-1495988903795 .carousel-caption-inner-2 {
-  display: table-cell;
-  vertical-align: middle;
-}
-#slider-1495988903795 .carousel-caption .block-title {
-  color: #fff;
-  font-size: 30px;
-  margin-top: 0;
-}
-#slider-1495988903795 .carousel-caption .block-subtitle {
-  color: #fff;
-  font-size: 18px;
-}
-#slider-1495988903795 .carousel-caption p {
-  color: #fff;
-  font-size: 16px;
-}
-@media (min-width: 768px) {
-  #slider-1495988903795 .carousel-caption {
-    left: 25%;
-    height: 100%;
-    top: 0;
-    bottom: auto;
-    right: 25%;
-    text-align: center;
-  }
-  #slider-1495988903795 .carousel-caption-inner {
-    display: table;
-    height: 100%;
-  }
-  #slider-1495988903795 .carousel-caption-inner-2 {
-    display: table-cell;
-    vertical-align: middle;
-  }
-  #slider-1495988903795 .carousel-caption .block-title {
-    color: #fff;
-    font-size: 70px;
-  }
-  #slider-1495988903795 .carousel-caption .block-subtitle {
-    color: #fff;
-    font-size: 24px;
-  }
-  #slider-1495988903795 .carousel-caption p {
-    color: #fff;
-    font-size: 16px;
-  }
-}
 
-#slider-1495988903795 {}
+#slider-1495988903795 .item {
+  min-height: 600px;
+}
 #slider-1495988903795 .item .overlay {
   background-color: #000000;
   opacity: 0.2;
 }
 @media (min-width: 768px) {
   #slider-1495988903795 {
-    
-      height: 100vh;
     
   }
   #slider-1495988903795 .carousel-caption {
@@ -679,6 +588,82 @@
   background: ;
 }
 
+        #slider-1495994863089 .item {
+          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/42a407a0-3e63-11e7-bb1e-3b750a126d94-kW0g1p0yRuCZ1eYgJz9J);
+          ackground-position: 0 0px;
+        }
+      
+        #slider-1495994863089 .item {
+          background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/1b439db0-3e63-11e7-a758-8bce55ad96cc-gMKMVaTsT1aak77pAfix);
+          ackground-position: 0 0px;
+        }
+      
+#slider-1495994863089 {
+  
+}
+#slider-1495994863089 .item {
+  /* background-image: url('../img/header-bg.jpg'); */
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-position: 0 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+#slider-1495994863089 .item .carousel-caption--custom {
+  position: absolute;
+  z-index: 10;
+}
+#slider-1495994863089 .item .carousel-caption-inner {
+  display: table;
+  height: 100%;
+  padding: 20px 60px;
+}
+#slider-1495994863089 .item .carousel-caption-inner-2 {
+  display: table-cell;
+  vertical-align: middle;
+}
+#slider-1495994863089 .item .carousel-caption--custom .block-title {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 0;
+}
+#slider-1495994863089 .item .carousel-caption--custom .block-subtitle {
+  color: #fff;
+  font-size: 18px;
+}
+#slider-1495994863089 .item .carousel-caption--custom p {
+  color: #fff;
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  #slider-1495994863089 .item .carousel-caption--custom {
+    height: 100%;
+    text-align: center;
+  }
+  #slider-1495994863089 .item .carousel-caption-inner {
+    display: table;
+    height: 100%;
+  }
+  #slider-1495994863089 .item .carousel-caption-inner-2 {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  #slider-1495994863089 .item .carousel-caption--custom .block-title {
+    color: #fff;
+    font-size: 70px;
+  }
+  #slider-1495994863089 .item .carousel-caption--custom .block-subtitle {
+    color: #fff;
+    font-size: 24px;
+  }
+  #slider-1495994863089 .item .carousel-caption--custom p {
+    color: #fff;
+    font-size: 16px;
+  }
+}
 #slider-1495994863089 .item .overlay {
   background-color: #000000;
   height: 100%;
@@ -688,69 +673,10 @@
   top: 0;
   width: 100%;
 }
-#slider-1495994863089 .item-inner img {
-  line-height: 1;
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-#slider-1495994863089 .carousel-caption {
-  padding: 0;
-  text-shadow: none;
-}
-#slider-1495994863089 .carousel-caption-inner {
-  display: table;
-  height: 100%;
-}
-#slider-1495994863089 .carousel-caption-inner-2 {
-  display: table-cell;
-  vertical-align: middle;
-}
-#slider-1495994863089 .carousel-caption .block-title {
-  color: #fff;
-  font-size: 30px;
-  margin-top: 0;
-}
-#slider-1495994863089 .carousel-caption .block-subtitle {
-  color: #fff;
-  font-size: 18px;
-}
-#slider-1495994863089 .carousel-caption p {
-  color: #fff;
-  font-size: 16px;
-}
-@media (min-width: 768px) {
-  #slider-1495994863089 .carousel-caption {
-    left: 25%;
-    height: 100%;
-    top: 0;
-    bottom: auto;
-    right: 25%;
-    text-align: center;
-  }
-  #slider-1495994863089 .carousel-caption-inner {
-    display: table;
-    height: 100%;
-  }
-  #slider-1495994863089 .carousel-caption-inner-2 {
-    display: table-cell;
-    vertical-align: middle;
-  }
-  #slider-1495994863089 .carousel-caption .block-title {
-    color: #fff;
-    font-size: 70px;
-  }
-  #slider-1495994863089 .carousel-caption .block-subtitle {
-    color: #fff;
-    font-size: 24px;
-  }
-  #slider-1495994863089 .carousel-caption p {
-    color: #fff;
-    font-size: 16px;
-  }
-}
 
-#slider-1495994863089 {}
+#slider-1495994863089 .item {
+  min-height: 600px;
+}
 #slider-1495994863089 .item .overlay {
   background-color: #000000;
   opacity: 0.2;
