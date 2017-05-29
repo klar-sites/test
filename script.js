@@ -47,7 +47,7 @@ window.addEventListener('load', function() {
 window.addEventListener('load', function() { 
   // console.log('hehehehehehe');
   // console.log(window.top.document.cookie);
-  $('#carousel-slider-1495988903795').carousel({
+  $('#carousel-slider-1496033259791').carousel({
     interval: false,
     keyboard: false
   });
