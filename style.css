@@ -303,6 +303,11 @@
   opacity: 0.2;
 }
 @media (min-width: 768px) {
+  #slider-1495988903795 {
+    
+      height: 100vh;
+    
+  }
   #slider-1495988903795 .carousel-caption {
     text-align: center;
   }
@@ -643,6 +648,9 @@
   opacity: 0.2;
 }
 @media (min-width: 768px) {
+  #slider-1495994863089 {
+    
+  }
   #slider-1495994863089 .carousel-caption {
     text-align: center;
   }
