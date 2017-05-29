@@ -258,15 +258,18 @@
   height: 100%;
 }
 #slider-1495988903795 .item .carousel-caption--custom {
+  ackground: red;
   position: relative;
   z-index: 10;
 }
 #slider-1495988903795 .item .carousel-caption-inner {
   display: table;
   height: 100%;
-  padding: 20px 60px;
+  padding: 0px 20%;
+
 }
 #slider-1495988903795 .item .carousel-caption-inner-2 {
+  
   display: table-cell;
   vertical-align: middle;
 }
@@ -625,15 +628,18 @@
   height: 100%;
 }
 #slider-1495994863089 .item .carousel-caption--custom {
+  ackground: red;
   position: relative;
   z-index: 10;
 }
 #slider-1495994863089 .item .carousel-caption-inner {
   display: table;
   height: 100%;
-  padding: 20px 60px;
+  padding: 0px 20%;
+
 }
 #slider-1495994863089 .item .carousel-caption-inner-2 {
+  
   display: table-cell;
   vertical-align: middle;
 }
