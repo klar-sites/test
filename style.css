@@ -236,6 +236,12 @@
   top: 0;
   width: 100%;
 }
+#slider-1495988903795 .item-inner img {
+  line-height: 1;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 #slider-1495988903795 .carousel-caption {
   text-shadow: none;
 }
@@ -569,6 +575,12 @@
   position: absolute;
   top: 0;
   width: 100%;
+}
+#slider-1495994863089 .item-inner img {
+  line-height: 1;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 #slider-1495994863089 .carousel-caption {
   text-shadow: none;
