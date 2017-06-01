@@ -38,7 +38,7 @@
 window.addEventListener('load', function() { 
   // console.log('hehehehehehe');
   // console.log(window.top.document.cookie);
-  $('#carousel-slider-1496263402095').carousel({
+  $('#carousel-slider-1496350437216').carousel({
     interval: false,
     keyboard: false
   });
