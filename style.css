@@ -337,7 +337,7 @@
     }
     /* Margin top next block */
     .navbar-custom + *,
-    [data-id="navigation-1496402072475"] + * {
+    [data-id="navigation-1496402377489"] + * {
       margin-top: 0px;
     }
   } 
@@ -371,10 +371,10 @@
     color: #fff;
   }
   .navbar-custom .nav li a:hover {
-    color: #fed136;
+    color: #005da0;
   }
   .navbar-custom .nav li a:focus {
-    color: #fed136;
+    color: #005da0;
   }
   .navbar-custom .nav li a {
     background-color: transparent;
@@ -384,22 +384,22 @@
   }
   .navbar-custom .navbar-nav > .active > a,
   .navbar-custom .navbar-nav > .active > a:hover {
-    background-color: #fed136;
+    background-color: #005da0;
   }
   .navbar-custom .navbar-nav > .active > a:focus {
-    background-color: #fed136;
+    background-color: #005da0;
   }
   .navbar-custom .navbar-toggle {
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #005da0;
+    border-color: #005da0;
   }
   .navbar-custom .navbar-toggle:hover {
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #005da0;
+    border-color: #005da0;
   }
   .navbar-custom .navbar-toggle:focus {
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #005da0;
+    border-color: #005da0;
   }
 
 #slider-1496401901343 {
