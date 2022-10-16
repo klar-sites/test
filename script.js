@@ -34,3 +34,12 @@
       }
     });
   })(jQuery);
+
+window.addEventListener('load', function() { 
+  // console.log('hehehehehehe');
+  // console.log(window.top.document.cookie);
+  $('#carousel-slider-1665939423687').carousel({
+    interval: false,
+    keyboard: false
+  });
+}, false);
